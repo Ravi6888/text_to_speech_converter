@@ -83,7 +83,7 @@ python text_to_speech_converter.py
 <hr>
 
 <h2>➤ GUI Preview</h2>
-<p align="center"><i><img width="531" height="504" alt="Screenshot 2025-10-31 172804" src="https://github.com/user-attachments/assets/2007eeb8-5c01-49ac-a675-54abab2f1104" />
+<p align="center"><i><img width="354" height="336" alt="Screenshot 2025-10-31 172804" src="https://github.com/user-attachments/assets/2007eeb8-5c01-49ac-a675-54abab2f1104" />
 </i></p>
 
 <hr>
